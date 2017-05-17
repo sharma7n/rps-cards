@@ -1,0 +1,13 @@
+# data
+cards.json
+
+# python
+__pycache__
+__pycache__/
+/__pycache__
+
+# c9
+.c9
+.c9/
+ex50
+ex50/
